@@ -1,5 +1,4 @@
-## Hi there 👋
-
+## <center> 歡迎，我是仁，REN✨ヾ(•ω•`)o </center>
 <!--
 **Lairen02/Lairen02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
