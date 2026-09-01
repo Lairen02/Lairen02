@@ -1,6 +1,6 @@
 ## <p align="center"> 歡迎，我是仁，REN✨ヾ(•ω•`)o </p>
 ### <p align="center">比較擅長遊戲編程</p>
-### <p align="center">More skilled in Game Dev💻</p>
+#### <p align="center">More skilled in Game Dev💻</p>
 
 ## 語言能力
 
