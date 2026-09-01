@@ -1,5 +1,11 @@
 ## <p align="center"> 歡迎，我是仁，REN✨ヾ(•ω•`)o </p>
-### <p align="center">我只是個初學編程的學生</p>
+### <p align="center">比較擅長遊戲編程</p>
+### <p align="center">More skilled in Game Dev💻</p>
+
+## 語言能力
+
+## 能力範圍
+
 <!--
 **Lairen02/Lairen02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
