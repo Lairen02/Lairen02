@@ -19,7 +19,7 @@
 
 ## <p align="center">聯繫方式</p>
 <p align="center">
-  <a href="https://discord.com/users/lairen02" target="_blank" title="在 Discord 上添加我為好友">
+  <a href="https://discord.com/users/577488032345620490" target="_blank" title="在 Discord 上添加我為好友">
     <img width="32" height="32" alt="discord_icon_130958" src="https://github.com/user-attachments/assets/7a84e3bf-9a50-46fd-a470-647e1c03e047" />
   <a href="mailto:k0986317042@gmail.com" title="發送電子郵件給我">
     <img width="32" height="32" alt="4202011emailgmaillogomailsocialsocialmedia-115677_115624" src="https://github.com/user-attachments/assets/51ba7c16-0250-4b54-b89c-bb26d77eb48f" />
